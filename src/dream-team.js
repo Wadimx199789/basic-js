@@ -1,4 +1,12 @@
-module.exports = function createDreamTeam(/* members */) {
-  throw 'Not implemented';
-  // remove line with error and write your code here
+module.exports = function createDreamTeam(members) {
+  var myarr=[];
+ if(!Array.isArray(members))return false;
+ else{
+   for(let i=0;i<members.length;i++){
+     if(members[i]===tring){
+
+     }
+   }
+ }
+
 };
